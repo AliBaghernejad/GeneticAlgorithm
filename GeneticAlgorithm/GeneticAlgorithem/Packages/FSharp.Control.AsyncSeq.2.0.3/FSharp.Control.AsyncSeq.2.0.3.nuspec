@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>FSharp.Control.AsyncSeq</id>
+    <version>2.0.3</version>
+    <authors>Tomasz Petricek,  David Thomas,  Ryan Riley,  Steffen Forkmann</authors>
+    <owners>Tomasz Petricek,  David Thomas,  Ryan Riley,  Steffen Forkmann</owners>
+    <licenseUrl>http://fsprojects.github.io/FSharp.Control.AsyncSeq/license.html</licenseUrl>
+    <projectUrl>http://fsprojects.github.io/FSharp.Control.AsyncSeq/</projectUrl>
+    <iconUrl>http://fsprojects.github.io/FSharp.Control.AsyncSeq/img/logo.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Asynchronous sequences for F#</description>
+    <summary>Asynchronous sequences for F#</summary>
+    <releaseNotes>Fix bug in Async.cache [#33](https://github.com/fsprojects/FSharp.Control.AsyncSeq/issues/33)</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>F# async fsharpx</tags>
+  </metadata>
+</package>

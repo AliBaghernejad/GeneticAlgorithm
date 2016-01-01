@@ -1,0 +1,12 @@
+c:\users\ali\documents\visual studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\bin\Debug\GeneticAlgorithem.exe.config
+c:\users\ali\documents\visual studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\bin\Debug\GeneticAlgorithem.XML
+c:\users\ali\documents\visual studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\bin\Debug\GeneticAlgorithem.exe
+c:\users\ali\documents\visual studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\bin\Debug\GeneticAlgorithem.pdb
+c:\users\ali\documents\visual studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\bin\Debug\FSharp.Core.dll
+c:\users\ali\documents\visual studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\bin\Debug\FSharp.Core.xml
+c:\users\ali\documents\visual studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\obj\Debug\GeneticAlgorithem.exe
+c:\users\ali\documents\visual studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\obj\Debug\GeneticAlgorithem.pdb
+C:\Users\Ali\Documents\Visual Studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\bin\Debug\FSharp.Charting.dll
+C:\Users\Ali\Documents\Visual Studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\bin\Debug\FSharp.Charting.pdb
+C:\Users\Ali\Documents\Visual Studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\bin\Debug\FSharp.Charting.xml
+C:\Users\Ali\Documents\Visual Studio 2013\Projects\GeneticAlgorithem\GeneticAlgorithem\obj\Debug\GeneticAlgorithem.fsproj.GeneticAlgorithem.exe.config
