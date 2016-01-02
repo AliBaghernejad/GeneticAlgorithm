@@ -1,2 +1,2 @@
-# GeneticAlgorithm
-Simple Genetic Algorithm Implemented using F#
+# Genetic Algorithm
+Simple Genetic Algorithm Implemented in F#
